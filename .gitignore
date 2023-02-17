@@ -1,0 +1,9 @@
+# Project exclude paths
+/target/
+.classpath
+.project
+.springBeans
+.settings/
+.idea/
+.class
+.jar
